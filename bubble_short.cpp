@@ -43,7 +43,10 @@ void bubbleSortArray(){
        }while(pass <= n-1); // step 5
    }
 
-int main(){
-
-
-}
+   int main(){
+       input();
+       
+   }
+      
+      
+   
