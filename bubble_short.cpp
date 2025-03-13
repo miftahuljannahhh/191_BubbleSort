@@ -45,7 +45,7 @@ void bubbleSortArray(){
 
    int main(){
        input();
-       
+       bubbleSortArray();       
    }
       
       
